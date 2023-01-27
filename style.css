@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(41, 0, 174);
+}
+
+h2 {
+    color:aqua;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+}
+
+p {
+    color:rgb(0, 255, 26);
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+}
+
+#hola {
+    font-size: 35px;
+    font-family: 'Titan One', cursive;
+}
+
+h3 {
+    font-family: 'Concert One', cursive;
+    color: rgb(212, 255, 0);
+}
+
+h4 {
+    font-family: 'DynaPuff', cursive;
+    color: rgb(255, 0, 238);
+}
